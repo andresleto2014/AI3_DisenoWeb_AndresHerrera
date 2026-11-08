@@ -24,25 +24,25 @@
 
             <label>apellidos: </label>
             <input type="text"
-                 name="Apellidos"
+                 name="apellidos"
                  required>
              <br><br>
 
             <label>telefono: </label>
             <input type="text"
-                 name="Telefono"
+                 name="telefono"
                  required>
             <br><br>
 
             <label>Correo:</label><br>
             <input type="email"
-                name="Correo"
+                name="correo"
                 required>
             <br><br>
 
             <label>direccion:</label><br>
             <input type="text"
-                name="Direccion"
+                name="direccion"
                 required>
             <br><br>
 
